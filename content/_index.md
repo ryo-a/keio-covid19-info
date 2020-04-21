@@ -5,4 +5,4 @@
 
 ## 開発者向け
 
-このサイトは Markdown 形式のデータを基に Hugo でビルドされています。
+このサイトは Markdown 形式のデータを基に [Hugo](https://gohugo.io/) でビルドされています。
